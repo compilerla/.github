@@ -4,6 +4,6 @@ Compiler is a small, woman-owned software consultancy. Compiler helps service-or
 
 ## ✨Work with Us ✨
 
-Compiler is currently seeking a [Product Manager - Consultant](https://github.com/compilerla/compiler/blob/main/jobs/product_manager.md).
+Compiler is currently seeking an [Associate Consultant, Scheduling Coordinator](https://github.com/compilerla/compiler/blob/main/jobs/associate_consultant_scheduling_coordinator.md).
 
-See the linked job description for more details. To apply; send resume, brief intro and preferences for working (hours, timezone, etc) to careers@compiler.la by March 1st 2022.
+See the linked job description for more details. To apply: send resume, brief intro and preferences for working (hours, timezone, etc) to careers@compiler.la by May 13th, 2022.
