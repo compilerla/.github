@@ -4,6 +4,4 @@ Compiler is a small, woman-owned software consultancy. Compiler helps service-or
 
 ## ✨Work with Us ✨
 
-Compiler is currently seeking an [Associate Consultant, Scheduling Coordinator](https://github.com/compilerla/compiler/blob/main/jobs/associate_consultant_scheduling_coordinator.md).
-
-See the linked job description for more details. To apply: send resume, brief intro and preferences for working (hours, timezone, etc) to careers@compiler.la by May 13th, 2022.
+Compiler posts new openings here regularly, check back soon!
