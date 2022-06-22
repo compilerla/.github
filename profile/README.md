@@ -4,4 +4,4 @@ Compiler is a small, woman-owned software consultancy. Compiler helps service-or
 
 ## ✨Work with Us ✨
 
-Compiler posts new openings here regularly, check back soon!
++ [Senior Consultant, UX / UI Desiger and Researcher](https://github.com/compilerla/compiler/blob/main/jobs/ux-ui-designer-researcher.md)
