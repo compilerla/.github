@@ -4,4 +4,4 @@ Compiler is a small, woman-owned software consultancy. Compiler helps service-or
 
 ## ✨Work with Us ✨
 
-Compiler posts new openings here regularly, check back soon!
+Compiler posts new openings regularly, check out our [Jobs page](https://compiler.la/jobs) for the latest!
