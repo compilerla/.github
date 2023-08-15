@@ -1,0 +1,32 @@
+name: test-daily-cron-issue
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 42 01 * * *
+
+jobs:
+  cron-create-issue:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - id: set_output
+        run: |
+          echo "short_date=$(date --iso-8601)" >> $GITHUB_OUTPUT
+          echo "long_date=$(date)" >> $GITHUB_OUTPUT
+
+      - id: create_issue
+        uses: imjohnbo/issue-bot@v3
+        with:
+          assignees: thekaveman
+          labels: duplicate
+          title: Daily issue for ${{steps.set_output.outputs.short_date}}
+          body: |
+            ## Daily Issue
+
+            Creation timestamp: `${{steps.set_output.outputs.long_date}}`
+          pinned: false
+          close-previous: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
