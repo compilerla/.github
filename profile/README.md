@@ -4,4 +4,4 @@ Compiler is a small, woman-owned software consultancy. Compiler helps service-or
 
 ## ✨Work with Us ✨
 
-[Project Manager (W-2)](https://compiler.la/jobs/project-manager), applications open until July 23, 2024.
+[Project Manager (W-2)](https://compiler.la/jobs/project-manager), applications accepted through July 23, 2024.
